@@ -12,16 +12,6 @@ name = "shell"
 [[analyzers]]
 name = "javascript"
 
-  [analyzers.meta]
-  plugins = [
-    "react",
-    "ember",
-    "angular",
-    "angularjs",
-    "meteor",
-    "vue"
-  ]
-
 [[analyzers]]
 name = "ruby"
 
